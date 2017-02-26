@@ -1,0 +1,1 @@
+The pharmacokinetic ODE model of protease nanosensors (as described in Kwong et al., PNAS (2015), 112(41):12627) returns the urine concentration of reporter in a +tumor and a -tumor case over a 200 minute period. 
